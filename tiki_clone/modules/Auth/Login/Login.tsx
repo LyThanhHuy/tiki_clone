@@ -1,10 +1,9 @@
-import React from 'react';
-import "./LoginPage.scss"
+import "./styles.scss"
 
 const LoginPage = () => {
     return (
-        <div>
-            login
+        <div className="login">
+            
         </div>
     );
 };
